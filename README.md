@@ -10,7 +10,7 @@ This repo is not yet ready for code contridutions. we will update the `README` w
 - [x] delegation helper class
 - [ ] pack
     - [ ] commands
-    - [ ] configuration
+    - [x] configuration
     - [ ] dev_server(proxy, runner and base)
     - [ ] env
     - [ ] view helper
