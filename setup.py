@@ -11,5 +11,6 @@ setup(
     download_url='https://github.com/r11n/ragpacker/archive/0.0.1.tar.gz',
     keywords=['webpack', 'django-webpack'],
     # TODO: add install requires
+    requires=['pyyaml']
     # TODO: add classifiers
 )
